@@ -21,12 +21,8 @@ Planned mods:
 
 Supported VR runtimes:
 
-* Oculus
+* Oculus (in alpha)
 * OpenVR
-
-Supported graphics APIs:
-
-* Direct3D 11
 
 ## Installation
 
